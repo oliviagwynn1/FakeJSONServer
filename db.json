@@ -4,17 +4,7 @@
       "id": 1,
       "time": "1",
       "weight": "87.4",
-    },
-    {
-      "id": 1,
-      "time": "2",
-      "weight": "76.3",
-    },
-    {
-      "id": 1,
-      "time": "3",
-      "weight": "95.9",
-    },
+    }
   ],
   "profile": {
     "name": "typicode"

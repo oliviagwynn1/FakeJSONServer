@@ -2,8 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "time": "1",
-      "weight": "90.4"
+      "title": "hello"
     }
   ],
   "profile": {
